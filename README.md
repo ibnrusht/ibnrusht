@@ -8,7 +8,7 @@ Brief repository description:
 - <b>wta_halfmoon</b> - small interactive ASCII graphics demo, written on C
 - <b>interview_tasks</b> - the name is self-explanatory
 - <b>yb_tm_downconversion_model</b> - MATLAB implementation of rate-equation approach for the specific scientific task (see the README.md of the repository)
-- <b>AutismRageBot</b> - Telegram bot written on Python, just for fun
+- <b>syrchello</b> - Telegram bot written on Python and connected with LSTM-text generator (Russian language)
 
 <!---
 ibnrusht/ibnrusht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
